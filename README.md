@@ -96,7 +96,7 @@ node server.js
 ### 6️⃣ Open your browser
 
 ```
-http://localhost:3000
+http://localhost:8000
 ```
 
 *(Use the port configured in `server.js`.)*
