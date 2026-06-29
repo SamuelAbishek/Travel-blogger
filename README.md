@@ -115,6 +115,4 @@ http://localhost:8000
 
 ## 👨‍💻 Author
 
-**Sam**
-
-Made with ❤️ using HTML, CSS, JavaScript, and Node.js.
+**Samuel Abishek R**
